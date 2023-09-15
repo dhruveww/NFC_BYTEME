@@ -603,5 +603,9 @@ h3 {
 }
 .footer-copy p {
 	font-size: 10px;
+	margin-bottom: 20px;
 }
+
+.footer-icons i{
+	font-size: xx-large;
 }
